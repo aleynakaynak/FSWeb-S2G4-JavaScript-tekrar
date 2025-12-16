@@ -72,4 +72,4 @@ module.exports = {
   siralisayilar,
   tekraredensayilar,
 };
-
+console.log("Kurulum tamamlandı");
